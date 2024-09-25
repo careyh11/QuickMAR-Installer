@@ -1,0 +1,2 @@
+# QuickMAR-Installer
+Installs QuickMAR
